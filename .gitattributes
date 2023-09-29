@@ -1,4 +1,4 @@
 # git configs
 
 # avoid export on clone repo
-.github export-ignore
+/.github export-ignore
